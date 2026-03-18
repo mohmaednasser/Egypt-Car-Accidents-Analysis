@@ -29,25 +29,25 @@ All project files are available on Google Drive:
 Egypt Car Accidents Analysis (2022–2024)
 │
 ├── Data
-│   ├── Raw Data – original PDF files from CAPMAS
-│   └── Processed Data – cleaned and structured Excel files
+│ ├── Raw Data – original PDF files from CAPMAS
+│ └── Processed Data – cleaned and structured Excel files
 │
 ├── Power BI
-│   ├── Data Cleaning – Power Query steps
-│   ├── Data Modeling – fact & dimension tables
-│   └── Dashboards – Power BI files (.pbix)
+│ ├── Data Cleaning – Power Query steps
+│ ├── Data Modeling – fact & dimension tables
+│ └── Dashboards – Power BI files (.pbix)
 │
 ├── Python
-│   ├── Data Preparation – preparing data for modeling
-│   ├── Forecasting Models – prediction of future accidents
-│   └── Machine Learning – models and experiments
+│ ├── Data Preparation – preparing data for modeling
+│ ├── Forecasting Models – prediction of future accidents
+│ └── Machine Learning – models and experiments
 │
 ├── Visualization
-│   ├── Dashboard Screenshots – exported dashboard images
-│   └── Design Assets – icons and UI elements
+│ ├── Dashboard Screenshots – exported dashboard images
+│ └── Design Assets – icons and UI elements
 │
 ├── Storytelling
-│   └── Final Presentation – PowerPoint / PDF with insights
+│ └── Final Presentation – PowerPoint / PDF with insights
 
 ---
 
