@@ -25,7 +25,7 @@ All project files are available on Google Drive:
 ---
 
 ## Project Structure
-
+```
 Egypt Car Accidents Analysis (2022–2024)
 │
 ├── Data
@@ -48,7 +48,7 @@ Egypt Car Accidents Analysis (2022–2024)
 │
 ├── Storytelling
 │ └── Final Presentation – PowerPoint / PDF with insights
-
+```
 ---
 
 ## Names of Team Members
