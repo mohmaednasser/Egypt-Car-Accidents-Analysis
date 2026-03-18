@@ -118,7 +118,6 @@ The dataset was collected from the official CAPMAS website in the form of PDF re
 - Collected icons from online resources to improve visualization.  
 
 ### 8. Forecasting (Python)
-- Exported the processed data for use in Python.
-- Built forecasting and machine learning models to predict future trends.
+
 - Exported the processed data for use in Python.  
 - Built forecasting and machine learning models to predict future trends.  
