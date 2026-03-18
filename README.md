@@ -6,11 +6,23 @@ This project analyzes car accidents in Egypt from 2022 to 2024.
 The dataset is real and collected from the official CAPMAS (Central Agency for Public Mobilization and Statistics) website.
 The analysis focuses on understanding injuries, deaths, and trends over time to provide insights for improving road safety.
 
+---
+
+## 🔗 Google Drive Link
+
+All project files are available on Google Drive:
+
+🔗 https://drive.google.com/drive/folders/10C9qdOvMabBRY6b3wbOYhe-dZJVNiaE7?usp=sharing
+
+---
+
 ## Tools Used
 
 - Excel: Data collection  
 - Power BI: Data cleaning, data modeling, and dashboard creation  
 - Python: Forecasting models and machine learning  
+
+---
 
 ## Project Structure
 
@@ -111,11 +123,7 @@ The dataset was collected from the official CAPMAS website in the form of PDF re
   
 ---
 
-## 🔗 Google Drive Link
 
-All project files are available on Google Drive:
-
-🔗 https://drive.google.com/drive/folders/10C9qdOvMabBRY6b3wbOYhe-dZJVNiaE7?usp=sharing
 
 - Exported the processed data for use in Python.  
 - Built forecasting and machine learning models to predict future trends.  
