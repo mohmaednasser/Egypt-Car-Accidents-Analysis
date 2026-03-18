@@ -117,7 +117,5 @@ All project files are available on Google Drive:
 
 🔗 https://drive.google.com/drive/folders/10C9qdOvMabBRY6b3wbOYhe-dZJVNiaE7?usp=sharing
 
-
-- Built forecasting and machine learning models to predict future trends.  
 - Exported the processed data for use in Python.  
 - Built forecasting and machine learning models to predict future trends.  
