@@ -283,16 +283,17 @@ The final presentation was created using **PowerPoint** and focused on:
 
 ---
 
-# 👥 Team Members
+# 👥 Team Members & Responsibilities
 
 | Team Member | Role |
 |---|---|
-| Mohamed Nasser Abd El Basset | Team Leader & Presentation |
-| Ahmed Abdelrhman Hassan | Python Forecasting & Machine Learning |
-| Youssef Ahmed Ibrahim | Data Modeling & DAX |
-| Sara Basher Selem | Data Cleaning & Preprocessing |
-| Mariam Mohammed Abdelmalek | Data Cleaning & Preprocessing |
-| Tasneem Reda Gomaa | Dashboard Design |
+| Mohamed Nasser Abd El Basset | Team Leader, Presentation, Project Coordination, and Supporting All Project Phases |
+| Ahmed Abdelrhman Hassan | Forecasting & Machine Learning using Python |
+| Youssef Ahmed Ibrahim | DAX Measures & Calculations |
+| Sara Basher Selem | Data Cleaning, Data Preparation, and Data Storage |
+| Mariam Mohammed Abdelmalek | Data Cleaning, Data Preparation, and Data Storage |
+| Tasneem Reda Gomaa | Dashboard Development & Dashboard Design |
+```
 
 ---
 
@@ -307,19 +308,18 @@ The final presentation was created using **PowerPoint** and focused on:
 | Phase | Duration |
 |---|---|
 | 📥 Data Collection | 2 Days |
-| 🔍 Data Understanding | 1 Day |
-| 🧹 Data Cleaning & ETL | 4 Days |
-| 🔗 Data Merging & Structuring | 2 Days |
-| 🏗️ Data Modeling & DAX | 2 Days |
+| 🔍 Understanding the Data | 1 Week |
+| 🧹 Data Cleaning, Preparation & Merging | 1 Month |
+| 📊 DAX Measures & Calculations | 1 Week |
 | 🎨 Dashboard Design & Development | 3 Days |
 | 🤖 Forecasting & Machine Learning | 2 Days |
-| 📖 Presentation & Storytelling | 1 Day |
+| 📖 Presentation & Storytelling | 3 Days |
 
 ---
 
 <div align="center">
 
-# 🚀 Total Project Duration: 17 Days
+# 🚀 Total Project Duration: Approximately 2 Months
 
 </div>
 
