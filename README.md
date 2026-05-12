@@ -38,9 +38,11 @@ The project also includes forecasting models using Python to predict future acci
 
 ---
 
-# 📂 Project Files
+# 📂 Project Resources
 
-🔗 [[Google Drive Project Folder](https://drive.google.com/drive/folders/10C9qdOvMabBRY6b3wbOYhe-dZJVNiaE7?usp=sharing)](https://drive.google.com/drive/folders/10C9qdOvMabBRY6b3wbOYhe-dZJVNiaE7?usp=sharing)
+| Resource | Link |
+|---|---|
+| Google Drive Folder | [Open Project Files](https://drive.google.com/drive/folders/10C9qdOvMabBRY6b3wbOYhe-dZJVNiaE7?usp=sharing) |
 
 ---
 
