@@ -65,7 +65,7 @@ graph TD
 A[📥 Data Collection] --> B[🔍 Data Understanding]
 B --> C[🧹 Data Cleaning & ETL]
 C --> D[🔗 Data Merging]
-D --> E[🏗️ Data Modeling]
+D --> E[📐 Data Preparation & Analysis]
 E --> F[🎨 Dashboard Design]
 F --> G[📊 Dashboard Development]
 G --> H[🤖 Forecasting & Machine Learning]
@@ -170,13 +170,13 @@ Used for:
 - Cleaning
 - Data preprocessing
 
-## 📊 Dashboard & Modeling File
+## 📊 Dashboard & Analysis File
 
 Used for:
-- Data Modeling
 - DAX Measures
 - Dashboard Development
 - Visualizations
+- Analysis
 
 This approach improved dashboard performance and workflow organization.
 
@@ -232,9 +232,7 @@ This approach improved dashboard performance and workflow organization.
 
 > Add dashboard screenshots here
 
-```md
 ![Dashboard Preview](Images/dashboard.png)
-```
 
 ---
 
@@ -293,7 +291,6 @@ The final presentation was created using **PowerPoint** and focused on:
 | Sara Basher Selem | Data Cleaning, Data Preparation, and Data Storage |
 | Mariam Mohammed Abdelmalek | Data Cleaning, Data Preparation, and Data Storage |
 | Tasneem Reda Gomaa | Dashboard Development & Dashboard Design |
-```
 
 ---
 
@@ -339,4 +336,3 @@ The final solution provides valuable insights into road accidents in Egypt and s
 # ⭐ Project Status
 
 ## ✅ Completed Successfully
-</div>
