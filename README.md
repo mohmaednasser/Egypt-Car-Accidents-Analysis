@@ -182,15 +182,16 @@ This approach improved dashboard performance and workflow organization.
 
 ---
 
-# 📐 Data Modeling
+# 📐 Data Preparation & Analysis
 
-- Created Fact & Dimension tables
-- Built relationships using **Star Schema**
-- Developed DAX measures for:
+- Organized and prepared the datasets for analysis inside Power BI
+- Built relationships between tables to improve dashboard performance
+- Created DAX measures for:
   - KPIs
   - Comparisons
-  - Dynamic calculations
   - Percentages
+  - Dynamic calculations
+- Prepared the final datasets for dashboard visualizations and reporting
 
 ---
 
