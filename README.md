@@ -1,123 +1,346 @@
-# Egypt Car Accidents 🚗
+<div align="center">
 
-## Project Overview
+# 🚗 Egypt Car Accidents Analysis (2022 – 2024)
 
-This project analyzes car accidents in Egypt from 2022 to 2024.
-The dataset is real and collected from the official CAPMAS (Central Agency for Public Mobilization and Statistics) website.
-The analysis focuses on understanding injuries, deaths, and trends over time to provide insights for improving road safety.
+### Power BI • Python • Data Analysis • Forecasting
 
----
-
-## 🔗 Google Drive Link
-
-All project files are available on Google Drive:
-
-🔗 https://drive.google.com/drive/folders/10C9qdOvMabBRY6b3wbOYhe-dZJVNiaE7?usp=sharing
+</div>
 
 ---
 
-## Tools Used
+# 📌 Project Description
 
-- Excel: Data collection  
-- Power BI: Data cleaning, data modeling, and dashboard creation  
-- Python: Forecasting models and machine learning  
+This project analyzes car accidents in Egypt from **2022 to 2024** using real datasets collected from the official website of the **Central Agency for Public Mobilization and Statistics (CAPMAS)**.
+
+The project focuses on analyzing:
+- Accident trends
+- Injuries and deaths
+- Emergency statistics
+- Road safety patterns
+
+The project also includes forecasting models using Python to predict future accident trends and support data-driven decision-making.
 
 ---
 
-## Project Structure
+# 🎯 Project Objective
+
+- Analyze car accident statistics in Egypt between 2022 and 2024
+- Identify trends in injuries and deaths
+- Compare accident categories and patterns
+- Discover insights related to:
+  - Gender
+  - Age groups
+  - Vehicle types
+  - Road types
+  - Monthly statistics
+- Build interactive dashboards for storytelling and visualization
+- Predict future accident trends using Machine Learning
+
+---
+
+# 📂 Project Files
+
+🔗 [Google Drive Project Folder](https://drive.google.com/drive/folders/10C9qdOvMabBRY6b3wbOYhe-dZJVNiaE7?usp=sharing)
+
+---
+
+# 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| Excel | Data storage and organization |
+| Power BI | Data cleaning, transformation, analysis, and dashboards |
+| Python | Forecasting & Machine Learning |
+| Figma | Dashboard UI/UX Design |
+| Adobe Photoshop | Editing icons and dashboard assets |
+| PowerPoint | Presentation & Storytelling |
+
+---
+
+# ⚙️ Project Workflow
+
+```mermaid
+graph TD
+
+A[📥 Data Collection] --> B[🔍 Data Understanding]
+B --> C[🧹 Data Cleaning & ETL]
+C --> D[🔗 Data Merging]
+D --> E[🏗️ Data Modeling]
+E --> F[🎨 Dashboard Design]
+F --> G[📊 Dashboard Development]
+G --> H[🤖 Forecasting & Machine Learning]
+H --> I[📖 Presentation & Storytelling]
 ```
-Egypt Car Accidents Analysis (2022–2024)
-│
-├── Data
-│ ├── Raw Data – original PDF files from CAPMAS
-│ └── Processed Data – cleaned and structured Excel files
-│
-├── Power BI
-│ ├── Data Cleaning – Power Query steps
-│ ├── Data Modeling – fact & dimension tables
-│ └── Dashboards – Power BI files (.pbix)
-│
-├── Python
-│ ├── Data Preparation – preparing data for modeling
-│ ├── Forecasting Models – prediction of future accidents
-│ └── Machine Learning – models and experiments
-│
-├── Visualization
-│ ├── Dashboard Screenshots – exported dashboard images
-│ └── Design Assets – icons and UI elements
-│
-├── Storytelling
-│ └── Final Presentation – PowerPoint / PDF with insights
+
+---
+
+# 📥 Data Collection
+
+- Collected datasets from the official CAPMAS website
+- Gathered:
+  - 3 PDF reports (2022, 2023, 2024)
+  - Population datasets for the same years
+
+---
+
+# 🔍 Understanding the Data
+
+- Studied all tables carefully
+- Determined the important datasets required for analysis
+- Selected datasets related to:
+  - Injuries
+  - Deaths
+  - Vehicle Types
+  - Road Types
+  - Gender
+  - Age Groups
+  - Monthly Statistics
+
+---
+
+# 🧹 Data Cleaning & ETL Process
+
+The datasets were imported into **Power BI Power Query** and processed using ETL techniques:
+
+- Extract
+- Transform
+- Load
+
+## 🚨 Challenges During Cleaning
+
+- Headers existed inside rows
+- Large amount of null values
+- Inconsistent table structures
+- Different spellings for governorate names
+
+## ✅ Cleaning Process
+
+- Cleaned each year separately
+- Standardized governorate names and text formatting
+- Fixed data types
+- Removed unnecessary rows and columns
+- Prepared clean datasets for analysis
+
+---
+
+# 🔗 Data Merging & Structuring
+
+Initially, the project contained:
+
+- 30 Tables
+  - 15 Injuries Tables
+  - 15 Deaths Tables
+
+## 🔄 First Merge
+
+Merged the same category across all years.
+
+### Example
+- Injuries by Gender
+- Injuries by Vehicle Type
+- Injuries by Road Type
+- Monthly Statistics
+
+### ✅ Result
+
+30 Tables → 10 Tables
+
+---
+
+## 🔄 Final Merge
+
+Merged injuries and deaths datasets for each category.
+
+### ✅ Final Output
+
+10 Tables → 5 Final Tables
+
+The data then became fully ready for analysis and visualization.
+
+---
+
+# 🏗️ Dashboard Development
+
+To improve performance and project organization, the project was divided into two separate Power BI files.
+
+## 📂 Data Cleaning File
+
+Used for:
+- ETL Process
+- Cleaning
+- Data preprocessing
+
+## 📊 Dashboard & Modeling File
+
+Used for:
+- Data Modeling
+- DAX Measures
+- Dashboard Development
+- Visualizations
+
+This approach improved dashboard performance and workflow organization.
+
+---
+
+# 📐 Data Modeling
+
+- Created Fact & Dimension tables
+- Built relationships using **Star Schema**
+- Developed DAX measures for:
+  - KPIs
+  - Comparisons
+  - Dynamic calculations
+  - Percentages
+
+---
+
+# 🎨 Dashboard Design
+
+### 🖌️ Design Tools
+
+- Figma → Dashboard Layout & UI/UX
+- Photoshop → Editing icons and visual assets
+
+---
+
+# 📄 Dashboard Pages
+
+| Page | Description |
+|---|---|
+| Intro Page | Project introduction |
+| Overview | General accident statistics |
+| Injuries Analysis | Injury trends and analysis |
+| Deaths Analysis | Death trends and insights |
+| Comparison Analysis | Comparisons between categories |
+| Ambulance Analysis | Emergency and ambulance analysis |
+| Ambulance Points Analysis | Ambulance locations and coverage |
+
+---
+
+# ✨ Dashboard Features
+
+✔️ Interactive Filters & Slicers  
+✔️ Tooltips for Important Charts  
+✔️ Interactive Navigation  
+✔️ KPI Cards  
+✔️ Dynamic Comparisons  
+
+---
+
+# 📸 Dashboard Preview
+
+> Add dashboard screenshots here
+
+```md
+![Dashboard Preview](Images/dashboard.png)
 ```
----
-
-## Names of Team Members
-1- Mohamed Nasser Abd el Basset
-2- Ahmed Abdelrhman Hassan  
-3- Youssef Ahmed Ibrahim  
-4- Sara Basher Selem  
-5- Tasneem Reda Gomaa  
-6- Mariam Mohammed Abdelmalek  
 
 ---
 
-## Each Member's Responsibility
-- Team Leader & Support: Mohamed Nasser Abd El Basset  
-- Data Cleaning & Preprocessing: Sara Basher Selem , Mariam Mohammed Abdelmalek  
-- Data Modeling & DAX: Youssef Ahmed Ibrahim  
-- Dashboard Design: Tasneem Reda Gomaa  
-- Python (Forecasting & Machine Learning): Ahmed Abdelrhman Hassan  
-- Presentation & Storytelling: Mohamed Nasser Abd El Basset  
+# 🤖 Forecasting & Machine Learning
+
+After completing the dashboard analysis, the project moved to Python for forecasting.
+
+## 🔬 Steps Performed
+
+- Exported clean data from Power BI
+- Tested model performance and accuracy
+- Built forecasting models for:
+  - Accident trends
+  - Injury rates
+  - Death rates
 
 ---
 
-## Instructor
-Instructor : ENG: Karim Bakly  
+# 📈 Forecasting Results
+
+The forecasting models indicated that:
+
+- Accident rates are expected to increase over time
+- Death rates are also expected to increase in future years
 
 ---
 
-## ⚙️ Data Processing & Transformation
+# 📊 Key Insights
 
-The dataset was collected from the official CAPMAS website in the form of PDF reports containing multiple tables.
+- Accident rates increased across the analyzed years
+- Male injury rates were significantly higher
+- Certain road types recorded higher accident frequencies
+- Forecasting models predicted continued increases in accidents and deaths
 
-### 1. Data Extraction
-- Extracted tables manually from PDF files into Excel format.  
-- Structured each table properly to prepare it for further processing.  
+---
 
-### 2. Data Cleaning (Power BI)
-- Imported the data into Power BI using Power Query.  
-- Handled a large number of missing values (nulls).  
-- Added proper column names and fixed inconsistent structures.  
+# 📖 Presentation & Storytelling
 
-### 3. Data Organization
-- Separated the data by year (2022, 2023, 2024).  
-- Each year contained 10 tables:
-  - 5 tables for injuries  
-  - 5 tables for deaths  
+The final presentation was created using **PowerPoint** and focused on:
 
-### 4. Data Merging
-- Merged all years together:
-  - Reduced 30 tables → 10 tables  
-- Combined injuries and deaths:
-  - Reduced 10 tables → 5 tables  
-- Final merge:
-  - Combined all tables into a single unified dataset  
+- Problem Explanation
+- Key Insights
+- Dashboard Storytelling
+- Forecasting Results
+- Recommendations
 
-### 5. Data Modeling
-- Transformed the final dataset into a data model:  
-  - Created Fact table  
-  - Created Dimension tables  
-- Built relationships between tables (Star Schema).  
+---
 
-### 6. Measures & Calculations
-- Created DAX measures for analysis (e.g., totals, percentages, comparisons).  
+# 👥 Team Members
 
-### 7. Dashboard Development
-- Designed and built interactive dashboards in Power BI.  
-- Used Adobe Photoshop to enhance the dashboard design.  
-- Collected icons from online resources to improve visualization.  
+| Team Member | Role |
+|---|---|
+| Mohamed Nasser Abd El Basset | Team Leader & Presentation |
+| Ahmed Abdelrhman Hassan | Python Forecasting & Machine Learning |
+| Youssef Ahmed Ibrahim | Data Modeling & DAX |
+| Sara Basher Selem | Data Cleaning & Preprocessing |
+| Mariam Mohammed Abdelmalek | Data Cleaning & Preprocessing |
+| Tasneem Reda Gomaa | Dashboard Design |
 
-### 8. Forecasting (Python)
+---
 
-- Exported the processed data for use in Python.  
-- Built forecasting and machine learning models to predict future trends.  
+# 👨‍🏫 Instructor
+
+### ENG. Karim Bakly
+
+---
+
+# ⏳ Project Timeline
+
+| Phase | Duration |
+|---|---|
+| 📥 Data Collection | 2 Days |
+| 🔍 Data Understanding | 1 Day |
+| 🧹 Data Cleaning & ETL | 4 Days |
+| 🔗 Data Merging & Structuring | 2 Days |
+| 🏗️ Data Modeling & DAX | 2 Days |
+| 🎨 Dashboard Design & Development | 3 Days |
+| 🤖 Forecasting & Machine Learning | 2 Days |
+| 📖 Presentation & Storytelling | 1 Day |
+
+---
+
+<div align="center">
+
+# 🚀 Total Project Duration: 17 Days
+
+</div>
+
+---
+
+# 📌 Final Outcome
+
+The project successfully transformed raw governmental accident reports into a complete analytical solution that includes:
+
+✅ Clean and structured datasets  
+✅ Interactive Power BI dashboards  
+✅ Forecasting & Machine Learning models  
+✅ Professional storytelling presentation  
+
+The final solution provides valuable insights into road accidents in Egypt and supports future road safety improvements and data-driven decisions.
+
+---
+
+# ⭐ Project Status
+
+<div align="center">
+
+## ✅ Completed
+
+</div>
