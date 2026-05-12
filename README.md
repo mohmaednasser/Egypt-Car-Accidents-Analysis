@@ -317,11 +317,9 @@ The final presentation was created using **PowerPoint** and focused on:
 
 ---
 
-<div align="center">
+# 🚀 Total Project Duration
 
-# 🚀 Total Project Duration: Approximately 2 Months
-
-</div>
+## Approximately 2 Months
 
 ---
 
@@ -329,10 +327,10 @@ The final presentation was created using **PowerPoint** and focused on:
 
 The project successfully transformed raw governmental accident reports into a complete analytical solution that includes:
 
-✅ Clean and structured datasets  
-✅ Interactive Power BI dashboards  
-✅ Forecasting & Machine Learning models  
-✅ Professional storytelling presentation  
+- ✅ Clean and structured datasets
+- ✅ Interactive Power BI dashboards
+- ✅ Forecasting & Machine Learning models
+- ✅ Professional storytelling presentation
 
 The final solution provides valuable insights into road accidents in Egypt and supports future road safety improvements and data-driven decisions.
 
@@ -340,8 +338,5 @@ The final solution provides valuable insights into road accidents in Egypt and s
 
 # ⭐ Project Status
 
-<div align="center">
-
-## ✅ Completed
-
+## ✅ Completed Successfully
 </div>
