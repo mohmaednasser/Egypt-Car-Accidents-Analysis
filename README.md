@@ -2,7 +2,7 @@
 
 # 🚗 Egypt Car Accidents Analysis (2022 – 2024)
 
-### Power BI • Python • Data Analysis • Forecasting
+### Power BI • Excel • Python • Data Analysis • Forecasting
 
 </div>
 
