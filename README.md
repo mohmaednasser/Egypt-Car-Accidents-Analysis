@@ -230,11 +230,7 @@ This approach improved dashboard performance and workflow organization.
 
 ---
 
-# 📸 Dashboard Preview
 
-> Add dashboard screenshots here
-
-![Dashboard Preview](Images/dashboard.png)
 
 ---
 
