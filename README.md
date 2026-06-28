@@ -2,7 +2,7 @@
 
 # 🚗 Egypt Car Accidents Analysis (2022 – 2024)
 
-### Power BI • Excel • Python • Data Analysis • Forecasting
+### Power BI • Excel • Python • SQL • VS 
 
 </div>
 
@@ -53,6 +53,8 @@ The project also includes forecasting models using Python to predict future acci
 | Excel | Data storage and organization |
 | Power BI | Data cleaning, transformation, analysis, and dashboards |
 | Python | Forecasting & Machine Learning |
+| SQL | Database Implementation |
+| VS | Application Development |
 | Figma | Dashboard UI/UX Design |
 | Adobe Photoshop | Editing icons and dashboard assets |
 | PowerPoint | Presentation & Storytelling |
